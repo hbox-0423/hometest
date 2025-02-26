@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skrud\\source\\repos\\hometest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5D4B1E-EBF2-47DD-ABD4-F392C33E7FA9}|hometest\\hometest.csproj|c:\\users\\skrud\\source\\repos\\hometest\\hometest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5D4B1E-EBF2-47DD-ABD4-F392C33E7FA9}|hometest\\hometest.csproj|solutionrelative:hometest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skrud\\source\\repos\\hometest\\hometest\\Program.cs",
+              "RelativeDocumentMoniker": "hometest\\Program.cs",
+              "ToolTip": "C:\\Users\\skrud\\source\\repos\\hometest\\hometest\\Program.cs",
+              "RelativeToolTip": "hometest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:24:21.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
